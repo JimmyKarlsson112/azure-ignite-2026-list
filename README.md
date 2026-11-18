@@ -6,7 +6,7 @@ The [Book of News](https://news.microsoft.com/events/ignite/2026/book-of-news/) 
 
 Jump to the area you care about for what's new, what it unlocks, and links to the original announcements. GA and preview labels reflect what was announced at Ignite; check [Azure Updates](https://azure.microsoft.com/updates) for current availability.
 
-Format inspired by [Matt Hansen’s Ignite 2025 Azure announcements list](https://github.com/matthansen0/matts-ignite-2025-list).
+Format inspired by Matt Hansen's [2026 list](https://github.com/matthansen0/matts-ignite-2026-list) and his [Ignite 2025 Azure announcements list](https://github.com/matthansen0/matts-ignite-2025-list).
 
 ## Contents
 
