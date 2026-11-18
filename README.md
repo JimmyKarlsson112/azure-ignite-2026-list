@@ -1,8 +1,10 @@
-# Azure announcements from Microsoft Ignite 2026
+# What's new in Azure from Microsoft Ignite 2026
 
-A service-by-service companion to the [Microsoft Ignite 2026 Book of News](https://news.microsoft.com/events/ignite/2026/book-of-news/), with **188 Azure announcements** and **6 related announcements beyond Azure** from November 17–18, 2026.
+**180+ Azure announcements** and **related announcements beyond Azure** from Ignite 2026. Let's go.
 
-Each entry links to an announcement and gives a short explanation of what changed. Release labels reflect what was announced at Ignite, not necessarily current availability. See [Azure Updates](https://azure.microsoft.com/updates) for the latest status.
+The [Book of News](https://news.microsoft.com/events/ignite/2026/book-of-news/) has the big headlines. I wanted one place to find the rest of the Azure updates too, so I pulled them together by service.
+
+Jump to the area you care about for what's new, what it unlocks, and links to the original announcements. GA and preview labels reflect what was announced at Ignite; check [Azure Updates](https://azure.microsoft.com/updates) for current availability.
 
 Format inspired by [Matt Hansen’s Ignite 2025 Azure announcements list](https://github.com/matthansen0/matts-ignite-2025-list).
 
